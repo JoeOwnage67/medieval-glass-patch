@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Medieval Glass Patch for Rebuild</name>
+	<author>JoeOwnage</author>
+	<url>https://github.com/JoeOwnage67/</url>
+	<supportedVersions>	
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>JoeDaly.RebuildMOGlassPatch</packageId>
+	<loadAfter>
+		<li>DankPyon.Medieval.Overhaul</li>
+		<li>ReBuild.COTR.DoorsAndCorners</li>
+	</loadAfter>
+	<modDependencies>	
+		<li>
+			<packageId>ReBuild.COTR.DoorsAndCorners</packageId>
+			<displayName>ReBuild: Doors and Corners</displayName>
+		</li>
+	</modDependencies>
+	<description>Makes glass walls not require electricity. If Medieval Overhaul is loaded, glass can be smelted at MO Furnace.
+	</description>
+</ModMetaData>
